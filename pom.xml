@@ -11,7 +11,7 @@
     <groupId>kr.pe.junho85</groupId>
     <artifactId>study-springframework-core-ioc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>study-springframework-core-ioc</name>
+    <name>spring-core-study-ioc</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
