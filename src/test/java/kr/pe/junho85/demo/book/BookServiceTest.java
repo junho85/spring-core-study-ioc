@@ -1,4 +1,4 @@
-package kr.pe.junho85.studyspringframeworkcoreioc.book;
+package kr.pe.junho85.demo.book;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

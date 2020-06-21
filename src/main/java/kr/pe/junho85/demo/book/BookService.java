@@ -1,4 +1,4 @@
-package kr.pe.junho85.studyspringframeworkcoreioc.book;
+package kr.pe.junho85.demo.book;
 
 import org.springframework.stereotype.Service;
 

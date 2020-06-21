@@ -1,13 +1,13 @@
-package kr.pe.junho85.studyspringframeworkcoreioc;
+package kr.pe.junho85.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudySpringframeworkCoreIocApplication {
+public class DemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(StudySpringframeworkCoreIocApplication.class, args);
+        SpringApplication.run(DemoApplication.class, args);
     }
 
 }
